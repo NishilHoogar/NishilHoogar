@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Linkedin
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishilHoogar&theme=tokyonight&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NishilHoogar&theme=tokyonight_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+-->
 
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
